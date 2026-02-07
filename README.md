@@ -50,3 +50,11 @@ type Mutation {
   addUser(name: String!, email: String!): User!
 }
 ```
+
+---
+
+## How to run locally
+
+- node index.js
+- or
+- node index2.js
